@@ -1,29 +1,3 @@
 # cooking-class
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![screencapture-localhost-8080-2023-07-04-23_17_05](https://github.com/sunyoungoh/cooking-class/assets/52486921/ae18d0e4-4571-4dec-8e3b-2dfbdf6444a9)
